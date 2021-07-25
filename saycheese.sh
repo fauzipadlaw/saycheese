@@ -201,14 +201,12 @@ start() {
 
         else
             printf "\e[91m[!] File not found\n"
-            printf " For Any help search 'Youtube.com/TechnicalHeadquarter'\n"
 
             exit 1
         fi
 
     else
         printf "\e[1;93m [!] Invalid option!\e[0m\n"
-        printf " For Any help search 'Youtube.com/TechnicalHeadquarter'\n"
         sleep 1
         clear
         start
