@@ -22,10 +22,10 @@ banner() {
     printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]      github.com/thelinuxchoice/saycheese(Repository Deleted)                   \e[0m\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
     printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]      github.com/fauzipadlaw/saycheese (forked and active Repository)           \e[0m\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
     printf "\n"
-    printf "        \e[1;91m Disclaimer: this tool is designed for security\n"
-    printf "         testing in an authorized simulated cyberattack\n"
-    printf "         Attacking targets without prior mutual consent\n"
-    printf "         is illegal!\n"
+    printf "             \e[1;91m Disclaimer: this tool is designed for security\n"
+    printf "              testing in an authorized simulated cyberattack\n"
+    printf "              Attacking targets without prior mutual consent\n"
+    printf "              is illegal!\n"
     printf "\n"
 
 }
