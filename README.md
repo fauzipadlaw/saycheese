@@ -1,5 +1,3 @@
-# saycheese
-Take webcam shots from target just sending a malicious link
 # SayCheese
 orignally coded by thelinuxchoise(repository deleted).
 
