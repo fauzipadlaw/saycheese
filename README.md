@@ -3,7 +3,8 @@ orignally coded by thelinuxchoise(repository deleted).
 
 Take webcam shots from target just sending a malicious link. Supports most unix-like OS (GNU/Linux, Android (Termux), Darwin, and FreeBSD).
 
-![sch](https://user-images.githubusercontent.com/34893261/81830116-10add880-9512-11ea-946e-3643db8c1bba.png)
+<img width="1680" alt="Screen Shot 2021-07-26 at 6 32 52 AM" src="https://user-images.githubusercontent.com/15975922/126917036-8fb551c8-ee64-454b-a187-a07d67fabeac.png">
+
 
 # How it works?
 <p>The tool generates a malicious HTTPS page using Ngrok Port Forwarding method, and a javascript code to perform cam requests using MediaDevices.getUserMedia. </p>
