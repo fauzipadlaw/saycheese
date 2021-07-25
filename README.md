@@ -1,7 +1,7 @@
 # SayCheese
 orignally coded by thelinuxchoise(repository deleted).
 
-Take webcam shots from target just sending a malicious link
+Take webcam shots from target just sending a malicious link. Supports most unix-like OS (GNU/Linux, Android (Termux), Darwin, and FreeBSD).
 
 ![sch](https://user-images.githubusercontent.com/34893261/81830116-10add880-9512-11ea-946e-3643db8c1bba.png)
 
@@ -26,6 +26,4 @@ chmod +x saycheese.sh
 ```
 
 ## Tested on:
-- Kali Linux 2020.1
-- Latest Termux 23-septmber-2020
 - macOS BigSur 11.5 arm64 M1
