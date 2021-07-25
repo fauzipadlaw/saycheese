@@ -1,5 +1,5 @@
 # SayCheese
-orignally coded by thelinuxchoise(repository deleted).
+Originally coded by thelinuxchoise(repository deleted).
 
 Take webcam shots from target just sending a malicious link. Supports most unix-like OS (GNU/Linux, Android (Termux), Darwin, and FreeBSD).
 
